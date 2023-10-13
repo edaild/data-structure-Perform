@@ -25,7 +25,7 @@ insert into publishing puvlishing(isbn, title , publisher, price) values ['A001'
 insert into publishing puvlishing(isbn, title , publisher, price) values ['A002','데이터베이스','다라출판','5000')
 insert into publishing puvlishing(isbn, title , publisher, price) values ['A003','웹디자인','마바출판','500')
 
-select * from publishing whare title like '더에터%';
+select * from publishing whare title like '데이터%';
 
 update publishing set title='자료' where title = '자료구조'
 
