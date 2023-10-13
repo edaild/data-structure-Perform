@@ -27,7 +27,7 @@ insert into publishing puvlishing(isbn, title , publisher, price) values ['A003'
 
 select * from publishing whare title like '더에터%';
 
-update publishing set title='자료' where title = '주료구조'
+update publishing set title='자료' where title = '자료구조'
 
 delect publishing where isbn='A003';
 
