@@ -1,5 +1,5 @@
 # data-structure-Perform
-
+3학년 2학기 DB 수행 과정
 ![image](https://github.com/edaild/data-structure-Perform/assets/109999749/3a3b9ad1-36c8-4c51-a7fe-4425663e01e3)
 
 ## SQL code
